@@ -1,3 +1,3 @@
 # zyCode
 
-**Web(fullstack)/3d Artist**
+**`Web(fullstack)/3d Artist`**
