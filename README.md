@@ -9,7 +9,7 @@ Yo! I'm a 3d artist learning web development. I really like creating and buildin
 ### 🧰 Languages and tools
 
 <img align="left" alt="Typescript" width="30px" style="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-<img align="left" alt="Javascript" width="30px" style="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascri[t/javascript.svg"/>
+<img align="left" alt="Javascript" width="30px" style="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript.svg"/>
 <img align="left" alt="Javascript" width="30px" style="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" alt="Javascript" width="30px" style="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="left" alt="Nextjs" width="30px" style="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg"/>
